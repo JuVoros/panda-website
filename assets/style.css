@@ -4,7 +4,7 @@
   
   body {
     background: rgb(16,17,18);
-    background: linear-gradient(354deg, rgba(16,17,18,1) 9%, rgba(238,43,43,1) 94%);
+    background: linear-gradient(354deg, rgba(16,17,18,1) 9%, rgb(125, 8, 202) 94%);
       }
   
     header {
@@ -89,8 +89,9 @@
   }
   
   .lefty {
-    color: var(--Main-purple);
+    color: white;
     margin-left: 20px;
+    font-size: larger;
   }
   
   .upper-rank {
